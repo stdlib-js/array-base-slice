@@ -41,9 +41,9 @@
     "@stdlib/types": "^0.3.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-accessor": "^0.2.0",
+    "@stdlib/array-base-accessor": "^0.2.1",
     "@stdlib/array-base-ones": "^0.2.1",
-    "@stdlib/array-base-zero-to": "^0.2.0",
+    "@stdlib/array-base-zero-to": "^0.2.1",
     "@stdlib/array-float64": "^0.2.1",
     "@stdlib/array-int32": "^0.2.1",
     "@stdlib/assert-is-array": "^0.2.1",
